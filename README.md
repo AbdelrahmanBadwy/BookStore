@@ -40,5 +40,5 @@ This project is an online bookstore implemented using Java Swing. It uses an off
 
 ## Contact
 
-If you have any questions or feedback, please contact me at [abdoo738@yahoo.com].
+If you have any questions or feedback, please contact me at [abdoo738@yahoo.com].                          
 or my LinkedIn [https://www.linkedin.com/in/abdelrahman-badawy-4517a6231/]
